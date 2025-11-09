@@ -1,2 +1,2 @@
 # check-prime
-My first project in GitHub
+First project in GitHub
