@@ -1,0 +1,39 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven/Gradle
+/target/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Compiled output directories commonly used during development
+/out/
+/bin/
+
+# Logs
+*.log
+
+# OS files
+/.DS_Store
+Thumbs.db
+
+# Optional: ignore the IDE workspace file
+*.swp
+
+# Ignore distribution files
+*.zip
+*.tar.gz
